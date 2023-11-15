@@ -1,0 +1,78 @@
+
+p{
+    color: aliceblue;
+}
+.bgcolor{
+    background-color: rgb(68, 67, 108);
+    margin:0%;
+    padding: 0%;
+}
+.login{
+    margin-left: 90%;
+    text-decoration: none;
+    color: aliceblue;
+    size: 100cm;
+    background-color: rgb(68, 67, 108);
+}
+.overlay{
+    font-size:1000px;
+    position: absolute;
+    right: 35%;
+    top: 650px;
+    color: aliceblue;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    }
+    .inneroverlay:hover{
+        font-size: xx-large;
+        transition: all 0.9s;
+        color: transparent;
+
+    }
+   .container-fluid{
+    background-color: rgb(68, 67, 108);
+   }
+   .scndbg{
+    background-color: rgb(68, 67, 108);
+    color: aliceblue;
+    text-align: center;
+   }
+.fstpic{
+ border-radius: 50%;
+}
+.fstpic img{
+    border-radius: 50%;
+    height: 300px;
+}
+.overlay1{
+    position: absolute;
+    right: 35%;
+    top:4750px;
+    color: aliceblue;
+    text-align: center;
+}
+.overlay2{
+    position: absolute;
+    right: 35%;
+    top:6000px;
+    color: aliceblue;
+    text-align: center;
+}
+.lotus{
+    background: url(./images/lotus\ \(2\).jpg) no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    padding: 0 10%;
+    background-attachment: fixed;
+}
+.form{
+    margin-left: 700px;
+}
+.info{
+   margin-right: 800px;
+   margin: ;
+}
